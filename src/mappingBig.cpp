@@ -220,7 +220,7 @@ int main(int argc, char** argv)
 			if (image.empty())
 			{
 				// Exit if image is not present 
-				std::cout << "finished images already?! bitch" << i << std::endl;
+				std::cout << "finished images already!" << i << std::endl;
 				break;
 			}
 		}
