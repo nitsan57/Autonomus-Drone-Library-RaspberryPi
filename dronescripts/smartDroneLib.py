@@ -22,7 +22,7 @@ def _sendMail(msg, to='arye.rules@gmail.com'):
 	fromaddr = 'nitsan57@gmail.com'
 	toaddrs  = to
 	username = 'nitsan57'
-	password = '16Dundum57'
+	password = 'XXXXX
 	server = smtplib.SMTP('smtp.gmail.com:587')
 	server.ehlo()
 	server.starttls()
